@@ -1,6 +1,6 @@
 #  Data Preprocessing Practice
 
-This repository contains a Jupyter Notebook titled **`Data Preprocessing.ipynb`**, created as part of practice work on essential **data handling and preprocessing techniques** in Machine Learning.  
+This repository contains a Jupyter Notebook titled **`Data Preprocessing.ipynb`**, created for essential **data handling and preprocessing techniques** in Machine Learning.  
 The notebook demonstrates step-by-step data cleaning, transformation, and preparation methods required before building predictive models.
 
 ---
