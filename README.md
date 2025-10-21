@@ -75,4 +75,4 @@ The focus is on understanding and implementing common preprocessing operations u
 ## 🧠 Author
 
 Ayan Nandi
-Data Science & Machine Learning Enthusiast
+- Data Science & Machine Learning Enthusiast
